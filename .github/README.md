@@ -13,7 +13,7 @@ A Telegram bot that automatically deletes edited messages in groups to maintain 
 
 ### Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/Edit-Guardians)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/harshnu12035/SHONAEDITBOT)
 
 ### Deploy on VPS
 
@@ -170,8 +170,8 @@ Edit-Guardians/
 
 ## 📞 Support
 
-- **Channel**: [Join Channel](https://t.me/ShrutiBots)
-- **Support Group**: [Get Help](https://t.me/ShrutiBotSupport)
+- **Channel**: [Join Channel](https://t.me/Urban_bots)
+- **Support Group**: [Get Help](https://t.me/Urban_bots)
 - **Issues**: [Report Bug](https://github.com/NoxxOP/Edit-Guardians/issues)
 
 ## 📄 License
