@@ -18,8 +18,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
         [InlineKeyboardButton("➕ Add Me To Your Group", url=f"https://t.me/toxicxedit_guardian_bot?startgroup=true")],
         [
-            InlineKeyboardButton("📢 Updates", url=https://t.me/kittuu_updates),
-            InlineKeyboardButton("💬 Support", url=https://t.me/+2Bu0_JhMY7BkMmY1)
+            InlineKeyboardButton("📢 Updates", url="https://t.me/kittuu_updates"),
+            InlineKeyboardButton("💬 Support", url="https://t.me/+2Bu0_JhMY7BkMmY1")
         ]
     ]
     text = (
