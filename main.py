@@ -44,7 +44,7 @@ async def edited_message_handler(update: Update, context: ContextTypes.DEFAULT_T
     try:
         await message.delete()
         button = InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🚀 Solution", url=https://t.me/+2Bu0_JhMY7BkMmY1)]]
+            [[InlineKeyboardButton("🚀 Solution", url="https://t.me/+2Bu0_JhMY7BkMmY1")]]
         )
         warn_text = (
             f"⚠️ <b>{user.first_name}</b>, your message was deleted because it contained an edited message."
